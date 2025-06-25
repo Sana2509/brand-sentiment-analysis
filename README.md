@@ -37,5 +37,5 @@ In this project, I built a machine learning model to detect **positive** or **ne
 
 ---
 
-## 📦 Project Structure
+
 
